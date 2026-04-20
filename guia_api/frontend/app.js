@@ -5,20 +5,20 @@ let mensajeReporte = prompt("Ingrese la ID a eliminar");
 switch (mensajeReporte){
     case 1:
         // Envio el ID a eliminar
-        const respuesta = await ejercicio4(mensajeReporte);
+        const respuesta = await ejercicio1(mensajeReporte);
 
         console.log(respuesta);
 
     case 2:
         // Envio el ID a eliminar
-        const respuesta = await ejercicio4(mensajeReporte);
+        const respuesta = await ejercicio2(mensajeReporte);
 
         console.log(respuesta);
 
         break;
     case 3:
         // Envio el ID a eliminar
-        const respuesta = await ejercicio4(mensajeReporte);
+        const respuesta = await ejercicio3(mensajeReporte);
 
         console.log(respuesta);
 
