@@ -3,8 +3,6 @@ import { ejercicio2 } from './Ejercicio2/index.js';
 import { ejercicio3 } from './Ejercicio3/index.js';
 import { ejercicio4 } from './Ejercicio4/index.js';
 
-let mensajeReporte = prompt("Ingrese la ID a eliminar");
-
 switch (mensajeReporte){
     case 1:
         // Envio el ID a eliminar
