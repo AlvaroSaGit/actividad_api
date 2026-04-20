@@ -27,7 +27,7 @@ export async function ejercicio4(usuarioId){
     }
     else{
         await eliminar('posts',usuarioId);
-        return "Publicacion eliminada correctamente";
+        return "Publicacion eliminada correctamente.";
     }
 }
 
