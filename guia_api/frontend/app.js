@@ -1,3 +1,6 @@
+import { ejercicio1 } from './Ejercicio1/index.js';
+import { ejercicio2 } from './Ejercicio2/index.js';
+import { ejercicio3 } from './Ejercicio3/index.js';
 import { ejercicio4 } from './Ejercicio4/index.js';
 
 let mensajeReporte = prompt("Ingrese la ID a eliminar");
