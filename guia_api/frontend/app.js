@@ -6,3 +6,4 @@ let mensajeReporte = prompt("Ingrese la ID a eliminar");
 const respuesta = await ejercicio4(mensajeReporte);
 
 console.log(respuesta);
+
