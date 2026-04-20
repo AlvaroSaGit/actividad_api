@@ -29,7 +29,7 @@ export async function ejercicio1(){
         console.table(reporte);
     }
     catch(error){
-        console.error(error);
+        console.error("Error en el reporte de usuarios:", error);
     }
     
 }
