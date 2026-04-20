@@ -1,13 +1,13 @@
 # Acuerdo de Trabajo del Equipo (Team Agreement)
 
-Este documento establece las reglas de convivencia, comunicación y estándares de calidad de nuestra célula ágil. Al participar en este repositorio, todos los miembros del equipo aceptamos y nos comprometemos a cumplir estos acuerdos.
+Este documento establece las reglas de convivencia, comunicación y estándares de calidad de nuestra célula ágil. Al participar en este repositorio, todos los miembros del equipo aceptamos y nos comprometemos a cumplir estos acuerdos
 
 ## 1. Miembros del Equipo y Roles
 | Nombre | Rol | Usuario de GitHub |
 | :--- | :--- | :--- |
 | [Alvaro Andres Salazar Herrera] | Líder (Arquitecto) | `@AlvaroSaGit` |
-| [Nombre del Aprendiz 2] | Desarrollador | `@usuario2` |
-| [Nombre del Aprendiz 3] | Desarrollador | `@usuario3` |
+| [Leidy Esmeralda Duarte Prada] | Desarrollador | `@Leidyesme` |
+| [Juan Manuel Rodriguez Carreño] | Desarrollador | `@Juan788800` |
 
 ## 2. Canales de Comunicación
 Para mantener el orden y separar lo profesional de lo personal, usaremos los siguientes canales:
