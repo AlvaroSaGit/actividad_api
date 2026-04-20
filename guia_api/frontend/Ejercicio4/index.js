@@ -23,7 +23,7 @@ export async function ejercicio4(usuarioId){
 
     // .find retorna el objeto o undefined
     if(comentarioExistente){
-        return "No se puede eliminar la publicacion tiene comentario existente";
+        return "No se puede eliminar la publicacion tiene comentario existente.";
     }
     else{
         await eliminar('posts',usuarioId);
