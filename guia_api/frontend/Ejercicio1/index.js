@@ -15,7 +15,7 @@ export async function ejercicio1(){
 
             // Comparamos el id del usuario con el id del post
             const su_publicacion = posts.filter(function(post){
-                return post.userId === usuario.id;
+                return post.userId == usuario.id;
             })
 
             reporte.push({
@@ -33,4 +33,3 @@ export async function ejercicio1(){
     }
     
 }
-ejercicio1();

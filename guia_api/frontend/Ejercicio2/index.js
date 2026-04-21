@@ -12,10 +12,10 @@ export async function ejercicio2(){
         posts.forEach(function(post){
             // Relacionamos usando postId
             const sus_comentarios = comments.filter(function(comentario){
-                return comentario.postId === post.id;
+                return comentario.postId == post.id;
             });
 
-            // Agregamos la lógica del estado que pide el punto 2
+            // Agregamos la logica del estado que pide el punto 2
             let estado_publicacion = "";
             if(sus_comentarios.length > 0){
                 estado_publicacion = "Con comentarios";
@@ -33,8 +33,6 @@ export async function ejercicio2(){
         console.table(reporte);
 
     } catch (error) {
-        // Aquí está la corrección del try catch que pediste
         console.error(error);
     }
 }
-ejercicio2()

@@ -40,5 +40,3 @@ export async function ejercicio3() {
 
     console.table(reporte_actividad);
 }
-
-ejercicio3();
