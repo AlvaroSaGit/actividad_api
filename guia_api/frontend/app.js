@@ -23,6 +23,6 @@ switch (menu) {
         alert(respuesta)
         break;
     default:
-        alert("opcion no valida, por favor elija un numero del 1 al 4");
+        alert("opcion no valida, por favor elija un numero del 1 al 4.");
         break;
 }
